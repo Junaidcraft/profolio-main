@@ -72,35 +72,36 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "Ecommerce Dashbaord Design",
+    des: "Build on React with beautifull charts and Paginations",
+    img: "/p-3.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
+    link: "/ui.aiimg.com",
+  },
+  {
+    id: 2,
+    title: "Snapgram - Socail Media WebApp",
+    des: "Social media with this user-friendly platform that has a nice look and lots of features.explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.",
+    img: "/p-1.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/appwrite.png"],
+    link: "https://snapgram12.netlify.app/",
+  },
+
+  {
+    id: 3,
+    title: "Blogspot",
+    des: "Multiuser Blogging plateform",
+    img: "/p-2.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "/ui.earth.com",
   },
   {
-    id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
-  },
-  {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
-  },
-  {
-    id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    title: "Blogspot",
+    des: "Multiuser Blogging plateform",
+    img: "/p-2.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "/ui.earth.com",
   },
 ];
 
@@ -117,7 +118,6 @@ export const testimonials = [
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
-
 ];
 
 export const companies = [
@@ -161,17 +161,11 @@ export const workExperience = [
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
-  {
-    id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
-  },
+
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Freelance Web Dev Project",
+    desc: "Led the dev of a WebApp for a client, from initial concept to deployment",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },

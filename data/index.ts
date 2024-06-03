@@ -76,7 +76,7 @@ export const projects = [
     des: "Build on React with beautifull charts and Paginations",
     img: "/p-3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://dashboard-shoppy.netlify.app/",
   },
   {
     id: 2,
@@ -101,7 +101,7 @@ export const projects = [
     des: "Multiuser Blogging plateform",
     img: "/p-2.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://mernblog12.netlify.app/",
   },
 ];
 
@@ -111,12 +111,14 @@ export const testimonials = [
       "Faizan is also very professional and reliable. He was always responsive to my communication, and he met all of his deadlines. He was also very open to feedback, and he was always willing to make changes to the project until I was completely satisfied. Overall, I am extremely happy with the work that Faizan did for me. He is a truly exceptional developer, and I highly recommend him to anyone looking for a skilled and reliable frontend and backend developer. To put it in a more casual way, Faizan is the man! He knows his stuff, he's easy to work with, and he gets the job done. If you need a frontend or backend developer, I highly recommend him",
     name: "Rehan Mirza",
     title: "UI/UX Designer on Upwork",
+    profileImage: "/unnamed.png",
   },
   {
     quote:
       "Faizan is an exceptional developer. I hired him to do both frontend and backend work on a recent project, and he exceeded my expectations in every way. First off, Faizan is incredibly knowledgeable and skilled. He has a deep understanding of both frontend and backend development, and he was able to quickly and easily implement all of my requirements. He is also very creative and resourceful, and he came up with some great solutions to some of the challenges we faced.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Edison",
+    title: "Director of AlphaStream",
+    profileImage: "/profile.svg",
   },
 ];
 
@@ -182,13 +184,12 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/FaizanHaider108",
   },
+
   {
     id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/faizanhaiderdev/",
   },
 ];

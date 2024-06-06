@@ -100,7 +100,7 @@ export const projects = [
     title: "React Portfolio (Frontend)",
     des: "React Website Design & Development www.rehansatelier.com",
     img: "/rehan.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/fm.svg", "twil.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/fm.svg"],
     link: "https://rehansatelier.com/",
   },
   {

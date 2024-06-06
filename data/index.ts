@@ -101,7 +101,7 @@ export const projects = [
     des: "React Website Design & Development www.rehansatelier.com",
     img: "/rehan.svg",
     iconLists: ["/re.svg", "/tail.svg", "/fm.svg", "twil.svg"],
-    link: "https://mernblog12.netlify.app/",
+    link: "https://rehansatelier.com/",
   },
   {
     id: 5,

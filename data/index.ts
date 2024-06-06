@@ -72,7 +72,7 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Ecommerce Dashbaord Design",
+    title: "Ecommerce Dashbaord Design (Frontend)",
     des: "Build on React with beautifull charts and Paginations",
     img: "/p-3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
@@ -80,7 +80,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Snapgram - Socail Media WebApp",
+    title: "Snapgram - Socail Media WebApp (full stack project)",
     des: "Social media with this user-friendly platform that has a nice look and lots of features.explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.",
     img: "/p-1.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/appwrite.png"],
@@ -89,19 +89,34 @@ export const projects = [
 
   {
     id: 3,
-    title: "Blogspot",
+    title: "Blogspot (full stack project)",
     des: "Multiuser Blogging plateform",
     img: "/p-2.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "/ui.earth.com",
   },
   {
-    id: 3,
-    title: "Blogspot",
-    des: "Multiuser Blogging plateform",
-    img: "/p-2.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    id: 4,
+    title: "React Portfolio (Frontend)",
+    des: "React Website Design & Development www.rehansatelier.com",
+    img: "/rehan.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/fm.svg", "twil.svg"],
     link: "https://mernblog12.netlify.app/",
+  },
+  {
+    id: 5,
+    title: "Ecommerce Website with Paypal",
+    des: "Resposive frontend to integration of Clerk and Paypal",
+    img: "/ecom.svg",
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+      "/ts.svg",
+      "/redux.png",
+      "/paypal.png",
+      "/c.svg",
+    ],
+    link: "https://ecommnext.netlify.app/",
   },
 ];
 

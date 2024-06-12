@@ -72,6 +72,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Horizon ( Finance Management App )",
+    des: "Horizon is a Full Stack Web application with the functionality of Bank Connection and Transactions & many more",
+    img: "/login.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/appwrite.png"],
+    link: "https://dashboard-shoppy.netlify.app/",
+  },
+  {
+    id: 2,
     title: "Ecommerce Dashbaord Design (Frontend)",
     des: "Build on React with beautifull charts and Paginations",
     img: "/p-3.svg",
@@ -79,7 +87,7 @@ export const projects = [
     link: "https://dashboard-shoppy.netlify.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Snapgram - Socail Media WebApp (full stack project)",
     des: "Social media with this user-friendly platform that has a nice look and lots of features.explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.",
     img: "/p-1.svg",
@@ -88,7 +96,7 @@ export const projects = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "Blogspot (full stack project)",
     des: "Multiuser Blogging plateform",
     img: "/p-2.svg",
@@ -96,7 +104,7 @@ export const projects = [
     link: "/ui.earth.com",
   },
   {
-    id: 4,
+    id: 5,
     title: "React Portfolio (Frontend)",
     des: "React Website Design & Development www.rehansatelier.com",
     img: "/rehan.svg",
@@ -104,7 +112,7 @@ export const projects = [
     link: "https://rehansatelier.com/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Ecommerce Website with Paypal",
     des: "Resposive frontend to integration of Clerk and Paypal",
     img: "/ecom.svg",

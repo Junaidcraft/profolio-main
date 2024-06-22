@@ -80,6 +80,14 @@ export const projects = [
   },
   {
     id: 2,
+    title: "Brainwave",
+    des: "AI website landing page build in  REACTjs & Tailwindcss",
+    img: "/brainwave.png",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "https://brainwave-ai34.vercel.app/",
+  },
+  {
+    id: 3,
     title: "3d Website Landing Page",
     des: "Build on React with beautifull 3d model using three js and motion",
     img: "/phone.png",
@@ -87,7 +95,7 @@ export const projects = [
     link: "https://3d-phone-website.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Ecommerce Dashbaord Design (Frontend)",
     des: "Build on React with beautifull charts and Paginations",
     img: "/p-3.svg",
@@ -95,7 +103,7 @@ export const projects = [
     link: "https://dashboard-shoppy.netlify.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Snapgram - Socail Media WebApp (full stack project)",
     des: "Social media with this user-friendly platform that has a nice look and lots of features.explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.",
     img: "/p-1.svg",
@@ -104,7 +112,7 @@ export const projects = [
   },
 
   {
-    id: 5,
+    id: 6,
     title: "Blogspot (full stack project)",
     des: "Multiuser Blogging plateform",
     img: "/p-2.svg",
@@ -112,7 +120,7 @@ export const projects = [
     link: "/ui.earth.com",
   },
   {
-    id: 6,
+    id: 7,
     title: "React Portfolio (Frontend)",
     des: "React Website Design & Development www.rehansatelier.com",
     img: "/rehan.svg",
@@ -120,7 +128,7 @@ export const projects = [
     link: "https://rehansatelier.com/",
   },
   {
-    id: 7,
+    id: 8,
     title: "Ecommerce Website with Paypal",
     des: "Resposive frontend to integration of Clerk and Paypal",
     img: "/ecom.svg",

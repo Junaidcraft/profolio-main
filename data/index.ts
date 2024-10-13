@@ -76,7 +76,7 @@ export const projects = [
     des: "Horizon is a Full Stack Web application with the functionality of Bank Connection and Transactions & many more",
     img: "/login.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/appwrite.png"],
-    link: "https://dashboard-shoppy.netlify.app/",
+    link: "https://horizon-banking-pk.vercel.app",
   },
   {
     id: 2,
@@ -93,6 +93,14 @@ export const projects = [
     img: "/phone.png",
     iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/fm.svg"],
     link: "https://3d-phone-website.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "Bet On It",
+    des: "Mern Stack lead generation website with dashboard",
+    img: "/Bet on it.jpg",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "https://betonitx.com/",
   },
   {
     id: 4,

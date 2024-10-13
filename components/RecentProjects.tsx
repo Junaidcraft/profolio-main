@@ -6,7 +6,6 @@ import { projects } from "@/data";
 import { PinContainer } from "./ui/Pin";
 import Link from "next/link";
 
-
 const RecentProjects = () => {
   return (
     <div className="py-20">
@@ -14,7 +13,7 @@ const RecentProjects = () => {
         A small selection of{" "}
         <span className="text-purple">recent projects</span>
       </h1>
-      <div className="flex flex-wrap items-center justify-center p-4 gap-16 mt-10">
+      <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 p-4 gap-16 mt-10">
         {projects.map((item) => (
           <div
             className="lg:min-h-[32.5rem] h-[25rem] flex items-center justify-center sm:w-96 w-[80vw]"

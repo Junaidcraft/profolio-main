@@ -4,7 +4,6 @@ export const navItems = [
   { name: "Testimonials", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
 ];
-
 export const gridItems = [
   {
     id: 1,
@@ -155,7 +154,7 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      '" Faizan is also very professional and reliable. He was always responsive to my communication, and he met all of his deadlines. He was also very open to feedback, and he was always willing to make changes to the project until I was completely satisfied. Overall, I am extremely happy with the work that Faizan did for me. He is a truly exceptional developer, and I highly recommend him to anyone looking for a skilled and reliable frontend and backend developer. To put it in a more casual way, Faizan is the man! He knows his stuff, he\'s easy to work with, and he gets the job done. If you need a frontend or backend developer, I highly recommend him "',
+      '" Junaid is also very proessional and reliable. He was always responsive to my communication, and he met all of his deadlines. He was also very open to feedback, and he was always willing to make changes to the project until I was completely satisfied. Overall, I am extremely happy with the work that Junaid did for me. He is a truly exceptional developer, and I highly recommend him to anyone looking for a skilled and reliable frontend and backend developer. To put it in a more casual way, Junaid is the man! He knows his stuff, he\'s easy to work with, and he gets the job done. If you need a frontend or backend developer, I highly recommend him "',
 
     name: "Rehan Mirza",
     title: "UI/UX Designer on Upwork",
@@ -163,7 +162,7 @@ export const testimonials = [
   },
   {
     quote:
-      ' "Faizan is an exceptional developer. I hired him to do both frontend and backend work on a recent project, and he exceeded my expectations in every way. First off, Faizan is incredibly knowledgeable and skilled. He has a deep understanding of both frontend and backend development, and he was able to quickly and easily implement all of my requirements. He is also very creative and resourceful, and he came up with some great solutions to some of the challenges we faced." ',
+      ' "Junaid is an exceptional developer. I hired him to do both frontend and backend work on a recent project, and he exceeded my expectations in every way. First off, Junaid is incredibly knowledgeable and skilled. He has a deep understanding of both frontend and backend development, and he was able to quickly and easily implement all of my requirements. He is also very creative and resourceful, and he came up with some great solutions to some of the challenges we faced." ',
     name: "Edison",
     title: "Director of AlphaStream",
     profileImage: "/profile.svg",
@@ -225,19 +224,5 @@ export const workExperience = [
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
-  },
-];
-
-export const socialMedia = [
-  {
-    id: 1,
-    img: "/git.svg",
-    link: "https://github.com/FaizanHaider108",
-  },
-
-  {
-    id: 2,
-    img: "/link.svg",
-    link: "https://www.linkedin.com/in/faizanhaiderdev/",
   },
 ];

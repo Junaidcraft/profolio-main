@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Faizan, a Next.js Developer based in Pakistan.
+            Hi! I&apos;m Junaid, a Next.js Developer based in Pakistan.
           </p>
 
           <a href="#about">
